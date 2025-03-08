@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruiqi-Yan)
+
 <!--
 **Ruiqi-Yan/Ruiqi-Yan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
