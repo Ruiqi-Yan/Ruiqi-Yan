@@ -1,6 +1,11 @@
 ## Hi there 👋
+🧑‍💻 I'm Ruiqi Yan  
+🎓 Undergraduate @ Shanghai Jiao Tong University  
+🧪 Research Intern @ SJTU X-LANCE  
+🔬 Research Interests: Audio Processing & Interaction, Multimodal LLM
 
-![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruiqi-Yan)
+![Ricky's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Ruiqi-Yan)
+
 
 <!--
 **Ruiqi-Yan/Ruiqi-Yan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
